@@ -1,4 +1,4 @@
-treeves.essentials.castle.windsor
+Treevs.Essentials.Castle.Windsor
 =================================
 
 Little additions to CastleWindsor that I wouldn't ever leave the house without.
