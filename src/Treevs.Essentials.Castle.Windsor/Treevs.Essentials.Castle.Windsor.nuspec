@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Trevor Reeves</authors>
+    <owners>Trevor Reeves</owners>
+    <licenseUrl>https://github.com/trevorreeves/Treevs.Essentials.Castle.Windsor/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/trevorreeves/Treevs.Essentials.Castle.Windsor</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>CastleWindsor</tags>
+	<dependencies>
+		<dependency id="Castle.Windsor" version="3.3" />
+		<dependency id="Castle.Core" version="3.3" />
+	</dependencies>
+  </metadata>
+</package>
